@@ -35,7 +35,7 @@ Value: In this dataset, we can calculate the average users of bikes usage and wi
 
 ## Big Data Problems 
 1. On an average, how many people are renting bikes in a particular area  -  Karthik
-2. For particular day how much time they are travelling
-3. For a given sex I will find 
+2. For particular day how much time they are travelling - Raghavendar
+3. For a given from Station I will find the total numbe of bikes rented at that station - Ganesh
 ## Big Data Questions
 ## Big Data Solutions
