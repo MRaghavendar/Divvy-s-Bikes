@@ -99,7 +99,7 @@ Value: In this dataset, we can calculate the average users of bikes usage and wi
         - Winthrop Ave & Lawrence Ave	377.0
         
 
-![bar chart (https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/avgrent.jpg)
+![bar chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/avgrent.jpg)
    
 
 
