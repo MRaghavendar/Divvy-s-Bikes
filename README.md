@@ -34,9 +34,9 @@ Value: In this dataset, we can calculate the average users of bikes usage and wi
 - [DataSource](https://www.kaggle.com/michaelshoemaker/divvy-bike-chicago-2018#Divvy_Trips_2018_Q2.csv)
 
 ## Big Data Problems 
-1. On an average, how many people are renting bikes in a particular area  -  Karthik
+1. For each user type whats the maximum trip duration -  Karthik
 2. For each bike id, find the average of trip duration - Raghavendar
-3. For a given from Station I will find the total trip  duration   rented at that station - Ganesh
+3. For a given from Station I will find the total trip  duration  rented at that station - Ganesh
 ## Big Data Solutions
 
  - Ganesh Siripuram
@@ -122,5 +122,24 @@ Reducer Output:
 | 3304   | 962.7335529      |
 
 chart: Bar Braph.
+
+Karthik Reddy Muthyala
+
+Problem statement:
+Mapper Input:
+| 7/1/2018 0:06 | 93 | 386 | 153 | Southport Ave & Wellington Ave | 250 | Ashland Ave & Wellington Ave | Subscriber | Male | 1986 |   |   |
+|---------------|----|-----|-----|--------------------------------|-----|------------------------------|------------|------|------|---|---|
+
+Mapper Output:
+|Usertype    | Trip Duration |
+|------------|---------------|
+| Subscriber | 386           |
+
+
+Reducer Output:
+|Usertype    | Trip Duration |
+|------------|---------------|
+| Subscriber | 386           |
+
 
 ## Big Data Solutions
