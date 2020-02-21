@@ -125,43 +125,43 @@ Value: In this dataset, we can calculate the average users of bikes usage and wi
     - 19 17536722,1/1/2018 1:48,1/1/2018 1:52,586,272,69,Damen Ave & Pierce Ave,213,Leavitt St & North Ave,Subscriber,Female,1986
     - 20 17536724,1/1/2018 1:49,1/1/2018 1:52,5765,172,69,Damen Ave & Pierce Ave,213,Leavitt St & North Ave,Subscriber,Male,1985
     
-    - Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
-        - Damen Ave & Pierce Ave,323
-        - Winthrop Ave & Lawrence Ave,377
-        - Rush St & Hubbard St,747
-        - Blue Island Ave & 18th St,183
-        - Broadway & Waveland Ave,266
-        -  Franklin St & Lake St,314
-        - Wells St & Elm St,794
-        - Wilton Ave & Diversey Pkwy,212
-        - Broadway & Belmont Ave,448
-        - Michigan Ave & Oak St,346
-        - Winchester (Ravenswood) Ave & Balmoral Ave,677
-        - Sedgwick St & North Ave,219
-        - Clark St & Grace St,320
-        - Green St & Madison St,498
-        - Damen Ave & Pierce Ave,272
-        - Damen Ave & Pierce Ave,172  
+    	- Mapper output/reducer input: example of an intermediate key, value pair output by your mapper:
+       	 	- Damen Ave & Pierce Ave,323
+        	- Winthrop Ave & Lawrence Ave,377
+        	- Rush St & Hubbard St,747
+        	- Blue Island Ave & 18th St,183
+        	- Broadway & Waveland Ave,266
+        	-  Franklin St & Lake St,314
+        	- Wells St & Elm St,794
+        	- Wilton Ave & Diversey Pkwy,212
+        	- Broadway & Belmont Ave,448
+        	- Michigan Ave & Oak St,346
+        	- Winchester (Ravenswood) Ave & Balmoral Ave,677
+        	- Sedgwick St & North Ave,219
+        	- Clark St & Grace St,320
+        	- Green St & Madison St,498
+        	- Damen Ave & Pierce Ave,272
+        	- Damen Ave & Pierce Ave,172  
   
-     - Reducer output
+     	- Reducer output
 
 
-	- Blue Island Ave & 18th St	1	183.0	183.0
-	- Broadway & Belmont Ave	1	448.0	448.0
-	- Broadway & Waveland Ave	1	266.0	266.0
-	- Clark St & Grace St	1	320.0	320.0
-	- Damen Ave & Pierce Ave	3	767.0	255.666666667
-	- Franklin St & Lake St	1	314.0	314.0
-	- Green St & Madison St	1	498.0	498.0
-	- Michigan Ave & Oak St	1	346.0	346.0
-	- Rush St & Hubbard St	1	747.0	747.0
-	- Sedgwick St & North Ave	1	219.0	219.0
-	- Wells St & Elm St	1	794.0	794.0
-	- Wilton Ave & Diversey Pkwy	1	212.0	212.0
-	- Winchester (Ravenswood) Ave & Balmoral Ave	1	677.0	677.0
-	- Winthrop Ave & Lawrence Ave	1	377.0	677.0
+		- Blue Island Ave & 18th St	1	183.0	183.0
+		- Broadway & Belmont Ave	1	448.0	448.0
+		- Broadway & Waveland Ave	1	266.0	266.0
+		- Clark St & Grace St	1	320.0	320.0
+		- Damen Ave & Pierce Ave	3	767.0	255.666666667
+		- Franklin St & Lake St	1	314.0	314.0
+		- Green St & Madison St	1	498.0	498.0
+		- Michigan Ave & Oak St	1	346.0	346.0
+		- Rush St & Hubbard St	1	747.0	747.0
+		- Sedgwick St & North Ave	1	219.0	219.0
+		- Wells St & Elm St	1	794.0	794.0
+		- Wilton Ave & Diversey Pkwy	1	212.0	212.0
+		- Winchester (Ravenswood) Ave & Balmoral Ave	1	677.0	677.0
+		- Winthrop Ave & Lawrence Ave	1	377.0	677.0
 
-![bar chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/average.jpg)
+	!Funnel chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/average.jpg)
    
 
 
