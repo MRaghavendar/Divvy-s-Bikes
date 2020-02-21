@@ -103,6 +103,7 @@ Value: In this dataset, we can calculate the average users of bikes usage and wi
 
 
 Raghavendar Reddy Maddelavedu
+
 Mapper Input:
 
 | 17536702 | 1/1/2018 0:12 | 1/1/2018 0:17 | 3304 | 323 | 69 | Damen Ave & Pierce Ave | 159 | Claremont Ave & Hirsch St | Subscriber | Male | 1988 |
