@@ -141,5 +141,8 @@ Reducer Output:
 |------------|---------------|
 | Subscriber | 386           |
 
+Chart: Bar Chart.
+
+
 
 ## Big Data Solutions
