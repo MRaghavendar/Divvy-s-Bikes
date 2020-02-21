@@ -161,7 +161,7 @@ Value: In this dataset, we can calculate the average users of bikes usage and wi
 		- Winchester (Ravenswood) Ave & Balmoral Ave	1	677.0	677.0
 		- Winthrop Ave & Lawrence Ave	1	377.0	677.0
 
-	!Funnel chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/average.png)
+	![Funnel chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/average.png)
    
 
 
