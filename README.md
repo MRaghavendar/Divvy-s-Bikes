@@ -57,7 +57,7 @@ Mapper Input:
 
 | Start station | Total Trip Duration |
 |----------|----------|
-| Damen Ave & Pierce Ave | 962.7335529 |
+| Damen Ave & Pierce Ave | 323 |
 
 chart: Bar Braph.
   
