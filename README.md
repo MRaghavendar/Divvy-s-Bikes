@@ -106,7 +106,7 @@ Reducer Output:
 
 Chart: Pie Chart.
 
-![bar chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/tripimage.jpg)
+![Pie chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/tripimage.jpg)
 
 
 
