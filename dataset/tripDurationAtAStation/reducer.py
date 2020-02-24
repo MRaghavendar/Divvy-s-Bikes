@@ -1,5 +1,5 @@
-s = open("output1.txt","r")
-r = open("output2", "w")
+s = open("shuffleoutput.txt","r")
+r = open("reducerOutput", "w")
 
 thisKey = ""
 thisValue = 0.0

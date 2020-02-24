@@ -1,5 +1,5 @@
 input_mapper = open("data.txt","r")
-output_mapper = open("output1.txt","w")
+output_mapper = open("mapperOutput.txt","w")
 for line in input_mapper:
     data = line.strip().split(',')
     if (len(data) == 12):
