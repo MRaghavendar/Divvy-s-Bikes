@@ -82,7 +82,7 @@ Reducer Output:
 
 | Bike I'd | Avg Trip Duration |
 |----------|----------|
-| 3304   | 962.7335529      |
+| 3304   | 389.0      |
 
 chart: Bar Braph.
 
@@ -104,10 +104,14 @@ Reducer Output:
 |------------|---------------|
 | Subscriber | 386           |
 
+<<<<<<< HEAD
 Chart: Pie Chart.
 
 ![Pie chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/tripimage.jpg)
 
+=======
+Chart: Bar Chart.
+>>>>>>> ed0a453307fd2c52367f8002047bd9643d44063d
 
 
 
