@@ -1,0 +1,564 @@
+2112 W Peterson Ave	38262.0
+63rd St Beach	7289.0
+900 W Harrison St	349260.0
+Aberdeen St & Jackson Blvd	589452.0
+Aberdeen St & Monroe St	604366.0
+Ada St & Washington Blvd	385079.0
+Adler Planetarium	253682.0
+Albany Ave & 26th St	5815.0
+Albany Ave & Bloomingdale Ave	140055.0
+Albany Ave & Montrose Ave	35573.0
+Artesian Ave & Hubbard St	348755.0
+Ashland Ave & 13th St	134831.0
+Ashland Ave & 21st St	35596.0
+Ashland Ave & 69th St	460.0
+Ashland Ave & Archer Ave	22645.0
+Ashland Ave & Augusta Blvd	332168.0
+Ashland Ave & Belle Plaine Ave	83479.0
+Ashland Ave & Blackhawk St	274558.0
+Ashland Ave & Chicago Ave	412258.0
+Ashland Ave & Division St	539682.0
+Ashland Ave & Grace St	185821.0
+Ashland Ave & Grand Ave	209434.0
+Ashland Ave & Harrison St	361183.0
+Ashland Ave & Lake St (Temp)	279933.0
+Ashland Ave & McDowell Ave	13523.0
+Ashland Ave & Wellington Ave	110754.0
+Ashland Ave & Wrightwood Ave	124350.0
+Austin Blvd & Chicago Ave	2816.0
+Austin Blvd & Lake St	11165.0
+Austin Blvd & Madison St	3027.0
+Avers Ave & Belmont Ave	13516.0
+Avondale Ave & Irving Park Rd	54872.0
+BBB ~ Divvy Parts Testing	447.0
+Benson Ave & Church St	241724.0
+Bissell St & Armitage Ave	400050.0
+Blackstone Ave & Hyde Park Blvd	114536.0
+Blue Island Ave & 18th St	310196.0
+Bosworth Ave & Howard St	53892.0
+Broadway & Argyle St	209480.0
+Broadway & Barry Ave	478940.0
+Broadway & Belmont Ave	268765.0
+Broadway & Berwyn Ave	200296.0
+Broadway & Cornelia Ave	303433.0
+Broadway & Granville Ave	133854.0
+Broadway & Ridge Ave	117740.0
+Broadway & Sheridan Rd	203649.0
+Broadway & Thorndale Ave	141382.0
+Broadway & Waveland Ave	253642.0
+Broadway & Wilson Ave	188283.0
+Buckingham Fountain	77261.0
+Budlong Woods Library	35940.0
+Burling St (Halsted) & Diversey Pkwy (Temp)	269937.0
+Burnham Harbor	121962.0
+California Ave & 21st St	17461.0
+California Ave & 23rd Pl	9600.0
+California Ave & 26th St	11530.0
+California Ave & Altgeld St	103240.0
+California Ave & Byron St	55167.0
+California Ave & Cortez St	94560.0
+California Ave & Division St	55057.0
+California Ave & Fletcher St	62886.0
+California Ave & Francis Pl	101698.0
+California Ave & Lake St	18709.0
+California Ave & Milwaukee Ave	402826.0
+California Ave & Montrose Ave	36956.0
+California Ave & North Ave	68801.0
+Calumet Ave & 18th St	237796.0
+Calumet Ave & 21st St	52467.0
+Calumet Ave & 33rd St	107818.0
+Calumet Ave & 35th St	40850.0
+Calumet Ave & 51st St	11927.0
+Calumet Ave & 71st St	426.0
+Campbell Ave & Fullerton Ave	85093.0
+Campbell Ave & Montrose Ave	133686.0
+Campbell Ave & North Ave	87355.0
+Canal St & Adams St	3980349.0
+Canal St & Harrison St	148671.0
+Canal St & Jackson Blvd	648825.0
+Canal St & Madison St	2059141.0
+Canal St & Monroe St (*)	930315.0
+Canal St & Taylor St	437799.0
+Cannon Dr & Fullerton Ave	62983.0
+Carpenter St & Huron St	319550.0
+Central Ave & Chicago Ave	1858.0
+Central Ave & Harrison St	822.0
+Central Ave & Lake St	854.0
+Central Park Ave & 24th St	3127.0
+Central Park Ave & Elbridge Ave	32416.0
+Central Park Ave & North Ave	20161.0
+Central Park Ave & Ogden Ave	8036.0
+Central St & Girard Ave	44102.0
+Central St Metra	39528.0
+Chicago Ave & Dempster St	64751.0
+Chicago Ave & Sheridan Rd	76821.0
+Chicago Ave & Washington St	133883.0
+Christiana Ave & Lawrence Ave	43635.0
+Cicero Ave & Flournoy St	859.0
+Cicero Ave & Quincy St	531.0
+Cityfront Plaza Dr & Pioneer Ct	680928.0
+Claremont Ave & Hirsch St	97994.0
+Clarendon Ave & Gordon Ter	272316.0
+Clarendon Ave & Junior Ter	98117.0
+Clarendon Ave & Leland Ave	82388.0
+Clark St & 9th St (AMLI)	208185.0
+Clark St & Armitage Ave	532923.0
+Clark St & Berwyn Ave	278296.0
+Clark St & Bryn Mawr Ave	156068.0
+Clark St & Chicago Ave	372328.0
+Clark St & Columbia Ave	90368.0
+Clark St & Congress Pkwy	782035.0
+Clark St & Drummond Pl	394628.0
+Clark St & Elm St	1003914.0
+Clark St & Elmdale Ave	97763.0
+Clark St & Grace St	186743.0
+Clark St & Jarvis Ave	25223.0
+Clark St & Lake St	1021084.0
+Clark St & Leland Ave	159789.0
+Clark St & Lincoln Ave	457005.0
+Clark St & Lunt Ave	160785.0
+Clark St & Montrose Ave	157796.0
+Clark St & North Ave	228550.0
+Clark St & Randolph St	1054957.0
+Clark St & Schiller St	562434.0
+Clark St & Schreiber Ave	60517.0
+Clark St & Touhy Ave	19835.0
+Clark St & Wellington Ave	391516.0
+Clark St & Winnemac Ave (Temp)	309318.0
+Clark St & Wrightwood Ave	497189.0
+Clifton Ave & Armitage Ave	278710.0
+Clinton St & 18th St	210499.0
+Clinton St & Lake St	1469677.0
+Clinton St & Madison St	2557459.0
+Clinton St & Polk St (*)	105217.0
+Clinton St & Roosevelt Rd	272347.0
+Clinton St & Tilden St	343597.0
+Clinton St & Washington Blvd	3589965.0
+Clybourn Ave & Division St	381781.0
+Columbus Dr & Randolph St	1898072.0
+Conservatory Dr & Lake St	7544.0
+Cornell Ave & Hyde Park Blvd	229739.0
+Cottage Grove Ave & 43rd St	7895.0
+Cottage Grove Ave & 47th St	32922.0
+Cottage Grove Ave & 51st St	14414.0
+Cottage Grove Ave & 63rd St	43096.0
+Cottage Grove Ave & 67th St	6401.0
+Cottage Grove Ave & 71st St	796.0
+Cottage Grove Ave & 78th St	4835.0
+Cottage Grove Ave & 83rd St	2507.0
+Cottage Grove Ave & Oakwood Blvd	16573.0
+Cuyler Ave & Augusta St	5463.0
+DIVVY Map Frame B/C Station	8365.0
+Daley Center Plaza	1230291.0
+Damen Ave & 51st St	1587.0
+Damen Ave & Charleston St	118366.0
+Damen Ave & Chicago Ave	486874.0
+Damen Ave & Clybourn Ave	141731.0
+Damen Ave & Cortland St	310850.0
+Damen Ave & Coulter St	28278.0
+Damen Ave & Cullerton St	79457.0
+Damen Ave & Division St	248991.0
+Damen Ave & Foster Ave	148840.0
+Damen Ave & Grand Ave	217533.0
+Damen Ave & Leland Ave	222111.0
+Damen Ave & Madison St	112908.0
+Damen Ave & Melrose Ave	86948.0
+Damen Ave & Pershing Rd	6114.0
+Damen Ave & Pierce Ave	558435.0
+Damen Ave & Sunnyside Ave	58352.0
+Damen Ave & Thomas St (Augusta Blvd)	306951.0
+Damen Ave & Wellington Ave	101257.0
+Dayton St & North Ave	406376.0
+Dearborn Pkwy & Delaware Pl	815996.0
+Dearborn St & Adams St	740514.0
+Dearborn St & Erie St	1250888.0
+Dearborn St & Monroe St	1328044.0
+Dearborn St & Van Buren St (*)	171531.0
+Delano Ct & Roosevelt Rd	222277.0
+Desplaines St & Jackson Blvd	638531.0
+Desplaines St & Kinzie St	893143.0
+Desplaines St & Randolph St	424595.0
+Dodge Ave & Church St	56060.0
+Dorchester Ave & 49th St	38988.0
+Dorchester Ave & 63rd St	13005.0
+Drake Ave & Addison St	71956.0
+Drake Ave & Fullerton Ave	109828.0
+Drake Ave & Montrose Ave	62188.0
+DuSable Museum	20072.0
+Dusable Harbor	183658.0
+East Ave & Garfield St	2828.0
+East Ave & Madison St	4604.0
+Eastlake Ter & Rogers Ave	107617.0
+Eberhart (Vernon) Ave & 79th St	1380.0
+Eberhart Ave & 61st St	4537.0
+Eckhart Park	448248.0
+Elizabeth St & 47th St	8344.0
+Ellis Ave & 53rd St	145629.0
+Ellis Ave & 55th St	246245.0
+Ellis Ave & 58th St	260941.0
+Ellis Ave & 60th St	325290.0
+Ellis Ave & 83rd St	843.0
+Elmwood Ave & Austin St	36690.0
+Elston Ave & Wabansia Ave	139782.0
+Emerald Ave & 28th St	95333.0
+Emerald Ave & 31st St	99642.0
+Evans Ave & 75th St	37125.0
+Fairbanks Ct & Grand Ave	919256.0
+Fairfield Ave & Roosevelt Rd	2984.0
+Federal St & Polk St	644583.0
+Field Blvd & South Water St	348644.0
+Field Museum	227321.0
+Financial Pl & Congress Pkwy (Temp)	729784.0
+Forest Ave & Chicago Ave	8304.0
+Forest Ave & Lake St	9233.0
+Fort Dearborn Dr & 31st St	57825.0
+Francisco Ave & Foster Ave	66538.0
+Franklin St & Chicago Ave	793811.0
+Franklin St & Jackson Blvd	1155988.0
+Franklin St & Lake St	978456.0
+Franklin St & Monroe St	1509423.0
+Franklin St & Quincy St	930882.0
+Glenwood Ave & Morse Ave	172292.0
+Glenwood Ave & Touhy Ave	13684.0
+Green St & Madison St	734851.0
+Green St & Randolph St	497910.0
+Greenview Ave & Diversey Pkwy	108484.0
+Greenview Ave & Fullerton Ave	228370.0
+Greenview Ave & Jarvis Ave	87601.0
+Greenwood Ave & 47th St	63173.0
+Greenwood Ave & 79th St	1926.0
+Halsted St & 18th St	79512.0
+Halsted St & 21st St	30642.0
+Halsted St & 35th St (*)	32195.0
+Halsted St & 37th St	10974.0
+Halsted St & 47th Pl	14441.0
+Halsted St & 56th St	1159.0
+Halsted St & 59th St	354.0
+Halsted St & 63rd St	7784.0
+Halsted St & 69th St	960.0
+Halsted St & Archer Ave	77263.0
+Halsted St & Clybourn Ave (*)	579433.0
+Halsted St & Dickens Ave	279644.0
+Halsted St & Maxwell St	281637.0
+Halsted St & North Branch St	94848.0
+Halsted St & Polk St	438482.0
+Halsted St & Roosevelt Rd	239004.0
+Halsted St & Roscoe St	378679.0
+Halsted St & Willow St	156624.0
+Halsted St & Wrightwood Ave	295383.0
+Harper Ave & 59th St	116109.0
+Hermitage Ave & Polk St	411211.0
+Honore St & Division St	295557.0
+Hoyne Ave & 47th St	2811.0
+Humboldt Blvd & Armitage Ave	164535.0
+Humphrey Ave & Ontario St	1291.0
+Indiana Ave & 26th St	43120.0
+Indiana Ave & 31st St	110351.0
+Indiana Ave & 40th St	13409.0
+Indiana Ave & Roosevelt Rd	855602.0
+Jefferson St & Monroe St	446639.0
+Jeffery Blvd & 67th St	22186.0
+Jeffery Blvd & 71st St	19992.0
+Karlov Ave & Madison St	687.0
+Kedzie Ave & 21st St	22816.0
+Kedzie Ave & 24th St	2649.0
+Kedzie Ave & Bryn Mawr Ave	26280.0
+Kedzie Ave & Chicago Ave	20634.0
+Kedzie Ave & Foster Ave	62090.0
+Kedzie Ave & Harrison St	811.0
+Kedzie Ave & Lake St	26491.0
+Kedzie Ave & Leland Ave	78620.0
+Kedzie Ave & Milwaukee Ave	368461.0
+Kedzie Ave & Palmer Ct	158464.0
+Kedzie Ave & Roosevelt Rd	1712.0
+Keystone Ave & Fullerton Ave	23370.0
+Keystone Ave & Montrose Ave	15519.0
+Kilbourn Ave & Irving Park Rd	22363.0
+Kilbourn Ave & Milwaukee Ave	17572.0
+Kimball Ave & Belmont Ave	46418.0
+Kimbark Ave & 53rd St	297493.0
+Kingsbury St & Erie St	1080463.0
+Kingsbury St & Kinzie St	1877617.0
+Knox Ave & Montrose Ave	12915.0
+Kosciuszko Park	51543.0
+Kostner Ave & Lake St	1778.0
+LaSalle Dr & Huron St (*)	149557.0
+LaSalle St & Adams St	422408.0
+LaSalle St & Illinois St	1079132.0
+LaSalle St & Jackson Blvd	1320696.0
+LaSalle St & Washington St	797816.0
+Lake Park Ave & 35th St	26773.0
+Lake Park Ave & 47th St	22575.0
+Lake Park Ave & 53rd St	109296.0
+Lake Park Ave & 56th St	186902.0
+Lake Shore Dr & Belmont Ave	222499.0
+Lake Shore Dr & Diversey Pkwy	164768.0
+Lake Shore Dr & Monroe St	366001.0
+Lake Shore Dr & North Blvd	330523.0
+Lake Shore Dr & Ohio St	364327.0
+Lake Shore Dr & Wellington Ave	164862.0
+Lakefront Trail & Bryn Mawr Ave	66380.0
+Lakeview Ave & Fullerton Pkwy	268960.0
+Laramie Ave & Gladys Ave	860.0
+Laramie Ave & Kinzie St	2078.0
+Larrabee St & Armitage Ave	219847.0
+Larrabee St & Division St	486906.0
+Larrabee St & Kingsbury St	1647298.0
+Larrabee St & Menomonee St	220647.0
+Larrabee St & North Ave	195992.0
+Larrabee St & Oak St	630872.0
+Larrabee St & Webster Ave	336619.0
+Leavitt St & Addison St	43812.0
+Leavitt St & Archer Ave	10687.0
+Leavitt St & Armitage Ave	119984.0
+Leavitt St & Lawrence Ave	117810.0
+Leavitt St & North Ave	138571.0
+Lincoln Ave & Addison St	60133.0
+Lincoln Ave & Belle Plaine Ave	136043.0
+Lincoln Ave & Belmont Ave	302158.0
+Lincoln Ave & Diversey Pkwy	281282.0
+Lincoln Ave & Fullerton Ave	381891.0
+Lincoln Ave & Leavitt St	173900.0
+Lincoln Ave & Roscoe St	349167.0
+Lincoln Ave & Waveland Ave	166117.0
+Lincoln Ave & Winona St	57615.0
+Logan Blvd & Elston Ave	202547.0
+Lombard Ave & Garfield St	3126.0
+Lombard Ave & Madison St	3529.0
+Loomis St & Archer Ave	12362.0
+Loomis St & Jackson Blvd	354773.0
+Loomis St & Lexington St	479551.0
+Loomis St & Taylor St (*)	441536.0
+MLK Jr Dr & 29th St	415926.0
+MLK Jr Dr & 47th St	7339.0
+MLK Jr Dr & 56th St (*)	11428.0
+MLK Jr Dr & 63rd St	4152.0
+MLK Jr Dr & 83rd St	7932.0
+MLK Jr Dr & Pershing Rd	9679.0
+Manor Ave & Leland Ave	34810.0
+Maplewood Ave & Peterson Ave	15868.0
+Marine Dr & Ainslie St	61328.0
+Marion St & South Blvd	12444.0
+Marshfield Ave & 44th St	909.0
+Marshfield Ave & Cortland St	851809.0
+May St & 69th St	2777.0
+May St & Cullerton St	84898.0
+May St & Taylor St	351823.0
+McClurg Ct & Erie St	909492.0
+McClurg Ct & Illinois St	911215.0
+McCormick Place	102420.0
+Michigan Ave & 14th St	473127.0
+Michigan Ave & 18th St	545197.0
+Michigan Ave & 8th St	203731.0
+Michigan Ave & Congress Pkwy	323969.0
+Michigan Ave & Jackson Blvd	487287.0
+Michigan Ave & Lake St	1208868.0
+Michigan Ave & Madison St	483577.0
+Michigan Ave & Oak St	427364.0
+Michigan Ave & Pearson St	312899.0
+Michigan Ave & Washington St	1860169.0
+Mies van der Rohe Way & Chestnut St	538206.0
+Mies van der Rohe Way & Chicago Ave	614085.0
+Millard Ave & 26th St	11301.0
+Millennium Park	536187.0
+Milwaukee Ave & Cuyler Ave	3268.0
+Milwaukee Ave & Grand Ave	645226.0
+Milwaukee Ave & Rockwell St	79975.0
+Milwaukee Ave & Wabansia Ave	299085.0
+Monticello Ave & Irving Park Rd	29022.0
+Montrose Harbor	102462.0
+Morgan Ave & 14th Pl	295450.0
+Morgan St & 18th St	210517.0
+Morgan St & 31st St	67806.0
+Morgan St & Lake St	1063222.0
+Morgan St & Polk St	819800.0
+Museum of Science and Industry	28562.0
+Noble St & Milwaukee Ave	379972.0
+Normal Ave & Archer Ave	49392.0
+Oak Park Ave & Harrison St	1397.0
+Oak Park Ave & South Blvd	9098.0
+Oakley Ave & Irving Park Rd	79401.0
+Oakley Ave & Touhy Ave	33743.0
+Ogden Ave & Chicago Ave	400717.0
+Ogden Ave & Congress Pkwy	87940.0
+Ogden Ave & Race Ave	331091.0
+Ogden Ave & Roosevelt Rd	76795.0
+Orleans St & Chestnut St (NEXT Apts)	349189.0
+Orleans St & Elm St (*)	250676.0
+Orleans St & Merchandise Mart Plaza	1256672.0
+Paulina Ave & North Ave	220629.0
+Paulina St & 18th St	187745.0
+Paulina St & Howard St	93080.0
+Paulina St & Montrose Ave	78759.0
+Peoria St & Jackson Blvd	680464.0
+Perry Ave & 69th St	1628.0
+Phillips Ave & 79th St	807.0
+Pine Grove Ave & Irving Park Rd	279263.0
+Pine Grove Ave & Waveland Ave	317691.0
+Prairie Ave & 43rd St	5977.0
+Prairie Ave & Garfield Blvd	76234.0
+Princeton Ave & 47th St	16715.0
+Princeton Ave & Garfield Blvd	56568.0
+Pulaski Rd & Eddy St (Temp)	7388.0
+Pulaski Rd & Lake St	2376.0
+Racine Ave & 13th St	64441.0
+Racine Ave & 15th St	114138.0
+Racine Ave & 18th St	239043.0
+Racine Ave & 35th St	13082.0
+Racine Ave & 61st St	294.0
+Racine Ave & 65th St	485.0
+Racine Ave & Belmont Ave	202074.0
+Racine Ave & Congress Pkwy	365989.0
+Racine Ave & Fullerton Ave	280438.0
+Racine Ave & Garfield Blvd	1164.0
+Racine Ave & Randolph St	433288.0
+Racine Ave & Wrightwood Ave	177370.0
+Racine Ave (May St) & Fulton St	426941.0
+Ravenswood Ave & Berteau Ave	162653.0
+Ravenswood Ave & Irving Park Rd	151127.0
+Ravenswood Ave & Lawrence Ave	785674.0
+Rhodes Ave & 32nd St	25711.0
+Richmond St & Diversey Ave	65147.0
+Ridge Blvd & Howard St	39003.0
+Ridge Blvd & Touhy Ave	25412.0
+Ridgeland Ave & Lake St	4874.0
+Ritchie Ct & Banks St	245158.0
+Rockwell St & Eastwood Ave	99884.0
+Rush St & Cedar St	454924.0
+Rush St & Hubbard St	767763.0
+Rush St & Superior St	582183.0
+Sacramento Blvd & Franklin Blvd	7067.0
+Saginaw Ave & Exchange Ave	5051.0
+Sangamon St & Washington Blvd (*)	452729.0
+Sawyer Ave & Irving Park Rd	26409.0
+Sedgwick St & Huron St	600953.0
+Sedgwick St & North Ave	399615.0
+Sedgwick St & Schiller St	92178.0
+Sedgwick St & Webster Ave	420035.0
+Seeley Ave & Garfield Blvd	2391.0
+Seeley Ave & Roscoe St	88812.0
+Shedd Aquarium	389678.0
+Sheffield Ave & Fullerton Ave	609588.0
+Sheffield Ave & Kingsbury St	426066.0
+Sheffield Ave & Waveland Ave	271995.0
+Sheffield Ave & Webster Ave	357137.0
+Sheffield Ave & Wellington Ave	360283.0
+Sheffield Ave & Willow St	394159.0
+Sheffield Ave & Wrightwood Ave	148903.0
+Sheridan Rd & Buena Ave	124054.0
+Sheridan Rd & Greenleaf Ave	48105.0
+Sheridan Rd & Irving Park Rd	423948.0
+Sheridan Rd & Lawrence Ave	90915.0
+Sheridan Rd & Loyola Ave	152442.0
+Sheridan Rd & Montrose Ave	222616.0
+Sheridan Rd & Noyes St (NU)	119382.0
+Shields Ave & 28th Pl	44944.0
+Shields Ave & 31st St	54801.0
+Shields Ave & 43rd St	1357.0
+Shore Dr & 55th St	218851.0
+South Chicago Ave & 83rd St	1561.0
+South Shore Dr & 67th St	2812.0
+South Shore Dr & 71st St	8721.0
+South Shore Dr & 74th St	11050.0
+Southport Ave & Belmont Ave	161314.0
+Southport Ave & Clark St	97496.0
+Southport Ave & Clybourn Ave	356416.0
+Southport Ave & Irving Park Rd	173553.0
+Southport Ave & Roscoe St	344530.0
+Southport Ave & Waveland Ave	354178.0
+Southport Ave & Wellington Ave	411563.0
+Southport Ave & Wrightwood Ave	246051.0
+Spaulding Ave & Armitage Ave	166163.0
+Spaulding Ave & Division St	48153.0
+St. Clair St & Erie St	1218654.0
+St. Louis Ave & Balmoral Ave	39588.0
+State St & 19th St	77755.0
+State St & 29th St	8679.0
+State St & 33rd St	283117.0
+State St & 35th St	77417.0
+State St & 76th St	3792.0
+State St & 79th St	12505.0
+State St & Harrison St	308409.0
+State St & Kinzie St	948975.0
+State St & Pearson St	754741.0
+State St & Randolph St	1029639.0
+State St & Van Buren St	588373.0
+Stave St & Armitage Ave	76656.0
+Stetson Ave & South Water St	883890.0
+Stockton Dr & Wrightwood Ave	179751.0
+Stony Island Ave & 64th St	6961.0
+Stony Island Ave & 67th St	30159.0
+Stony Island Ave & 71st St	24407.0
+Stony Island Ave & 75th St	25394.0
+Stony Island Ave & 82nd St	3649.0
+Stony Island Ave & South Chicago Ave	2502.0
+Streeter Dr & Grand Ave	491631.0
+TS ~ DIVVY PARTS TESTING	368.0
+Talman Ave & Addison St	110070.0
+Theater on the Lake	304328.0
+Throop St & 52nd St	931.0
+Troy St & Elston Ave	68323.0
+Troy St & North Ave	62499.0
+Union Ave & Root St	38122.0
+University Ave & 57th St	550369.0
+University Library (NU)	168505.0
+Valli Produce - Evanston Plaza	10413.0
+Vernon Ave & 75th St	1058.0
+Wabash Ave & 16th St	486623.0
+Wabash Ave & 83rd St	4557.0
+Wabash Ave & 87th St	3221.0
+Wabash Ave & 9th St	525278.0
+Wabash Ave & Adams St	737876.0
+Wabash Ave & Cermak Rd	91830.0
+Wabash Ave & Grand Ave	832021.0
+Wabash Ave & Roosevelt Rd	943086.0
+Wabash Ave & Wacker Pl	585793.0
+Wacker Dr & Washington St	1171665.0
+Wallace St & 35th St	42345.0
+Warren Park East	22525.0
+Warren Park West	14895.0
+Washtenaw Ave & Lawrence Ave	68105.0
+Washtenaw Ave & Ogden Ave (*)	30309.0
+Wells St & 19th St	14911.0
+Wells St & Concord Ln	840816.0
+Wells St & Elm St	618166.0
+Wells St & Evergreen Ave	474146.0
+Wells St & Hubbard St	740848.0
+Wells St & Huron St	751707.0
+Wells St & Polk St	484951.0
+Wells St & Walton St	350384.0
+Wentworth Ave & 24th St	47254.0
+Wentworth Ave & 33rd St	52395.0
+Wentworth Ave & 35th St	27237.0
+Wentworth Ave & 63rd St	5655.0
+Wentworth Ave & Cermak Rd (Temp)	154511.0
+Western Ave & 21st St	57085.0
+Western Ave & 24th St	16133.0
+Western Ave & 28th St	2882.0
+Western Ave & Congress Pkwy	49701.0
+Western Ave & Division St	119144.0
+Western Ave & Granville Ave	25135.0
+Western Ave & Howard St	23154.0
+Western Ave & Leland Ave	296253.0
+Western Ave & Lunt Ave	52896.0
+Western Ave & Monroe St	31004.0
+Western Ave & Roscoe St	150267.0
+Western Ave & Walton St	224905.0
+Western Ave & Winnebago Ave	301383.0
+Western Blvd & 48th Pl	3292.0
+Wilton Ave & Belmont Ave	553587.0
+Wilton Ave & Diversey Pkwy	412801.0
+Winchester (Ravenswood) Ave & Balmoral Ave	158943.0
+Winchester Ave & Elston Ave	95364.0
+Winthrop Ave & Lawrence Ave	130445.0
+Wisconsin Ave & Madison St (Temp)	5672.0
+Wolcott (Ravenswood) Ave & Montrose Ave (*)	142334.0
+Wolcott Ave & Fargo Ave	5829.0
+Wolcott Ave & Polk St	730242.0
+Wood St & 35th St	8468.0
+Wood St & Hubbard St	167336.0
+Wood St & Milwaukee Ave	333928.0
+Wood St & Taylor St	392375.0
+Woodlawn Ave & 55th St	132203.0
+Woodlawn Ave & 75th St	685.0
+Woodlawn Ave & Lake Park Ave	33827.0
