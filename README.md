@@ -104,7 +104,10 @@ Reducer Output:
 |------------|---------------|
 | Subscriber | 386           |
 
-Chart: Bar Chart.
+Chart: Pie Chart.
+
+![bar chart](https://github.com/MRaghavendar/Divvy-s-Bikes/blob/master/images/tripimage.jpg)
+
 
 
 
