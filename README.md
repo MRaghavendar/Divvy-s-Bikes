@@ -86,6 +86,8 @@ Reducer Output:
 
 chart: Bar Braph.
 
+![Graph](https://raw.githubusercontent.com/MRaghavendar/Divvy-s-Bikes/master/images/Screenshot%20(7).png?token=ALEIPX6RVIOEPU42O62ZEF26KRM5K)
+
 Karthik Reddy Muthyala
 
 Problem statement:
