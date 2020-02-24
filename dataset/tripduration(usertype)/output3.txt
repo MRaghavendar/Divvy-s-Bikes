@@ -1,0 +1,2 @@
+Customer	3942435.0
+Subscriber	145096451.0
