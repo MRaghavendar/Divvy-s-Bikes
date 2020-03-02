@@ -8,11 +8,15 @@ for line in s:
   bikeid, tripduration = data
   if bikeid != thisKey:
     if thisKey:
+      # output the last key value pair result
       r.write(thisKey + '\t' + str(thisValue/count)+'\n')
+      # start over when changing keys
     thisKey = bikeid 
     thisValue = 0.0
+    # apply the aggregation function
     count=0
   thisValue += float(tripduration)
+  # output the final entry when done
   count+=1
 r.write(thisKey + '\t' + str(thisValue/count)+'\n')
 s.close()
