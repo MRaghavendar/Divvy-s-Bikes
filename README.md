@@ -4,9 +4,9 @@
 - section-01
 
 ## List Of Developers
-- Raghavendar Reddy maddelavedu
-- karthik Reddy Muthyala
-- Ganesh siripuram
+- Raghavendar Reddy maddelavedu - S534692@nwmissouri.edu
+- karthik Reddy Muthyala - S533627@nwmissouri.edu
+- Ganesh siripuram - S534195@nwmissouri.edu
 
 ## Links
 - https://github.com/MRaghavendar/Divvy-s-Bikes
